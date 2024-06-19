@@ -1,9 +1,27 @@
-# Build an LMS Platform: Next.js 13, React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
+# Build an LMS Platform: Next.js 13, React, Stripe, Mux, Prisma, Tailwind, MongoDB 
 
-This is a repository for Build an LMS Platform: Next.js 13, React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
+## 📋 <a name="table">Table of Contents</a>
 
-Key Features:
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Sscreenshots](#screenshots)
 
+## <a name="introduction">🤖 Introduction </a>
+
+A Fullstack Learning Management System for Students to learn diverse set of skills from the teachers all around the world made accessible at their fingertips.
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+- Next.js 13
+- React
+- Stripe
+- Mux
+- Prisma
+- Tailwind
+- MongoDB
+
+## <a name="features">🔋 Features</a>
 - Browse & Filter Courses
 - Purchase Courses using Stripe
 - Mark Chapters as Completed or Uncompleted
@@ -21,6 +39,9 @@ Key Features:
 - ORM using Prisma
 - MongoDB database
 
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
 ### Prerequisites
 
 **Node version 18.x.x**
@@ -94,7 +115,8 @@ Running commands with npm `npm run [command]`
 | `dev`   | Starts a development instance of the app |
 "# LearnX" 
 
-## Screenshots
+## <a name="screenshots">📷 Screenshots</a>
+
 ### 1.Student View 
 
 1. Search All Courses
